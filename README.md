@@ -5,4 +5,6 @@ Hello everyone,
 
 I wrote a code that is scraping google images with beautiful soup but I am working on getting original images.
 It is just scraping thumbnails right now. I will keep it update this project. 
-You can use it with Linux and Windows. I explained what the function does in the code
+You can use it with Linux and Windows. I explained what the function does in the code.
+
+You can contact me from this site or my e-mail.
