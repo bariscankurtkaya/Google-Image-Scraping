@@ -1,5 +1,5 @@
 # Google-Image-Scraping
-I wrote a with python which is scraping google images with beautifulsoup4.
+I wrote a code with python which is scraping google images with beautifulsoup4.
 
 Hello everyone,
 
