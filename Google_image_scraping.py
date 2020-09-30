@@ -25,6 +25,7 @@ import time
 
 #Geting desktop location
 desktop = os.path.join(os.path.join(os.environ['USERPROFILE']), 'Desktop')
+
 #If you use Linux
 #desktop = os.path.join(os.path.join(os.path.expanduser('~')), 'Desktop') 
 
